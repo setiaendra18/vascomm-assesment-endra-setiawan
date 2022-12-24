@@ -1,5 +1,8 @@
 # ENDRA SETIAWAN - YOGYAKARTA - VASCOMM ASSEMENT -Laravel
 
+## Username Admin
+- email : admin@gmail.com
+- password: admin
 
 # Screenshoot
 <img src="https://github.com/setiaendra18/vascomm-assesment-endra-setiawan/blob/19pnh33/screenshoot/pic%20(1).png" width="70%">
